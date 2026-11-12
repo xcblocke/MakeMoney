@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Paomadeng",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "97e5d15e-0da0-4dc2-a4bf-8955501f54cd"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "e7dd7ea5-a60a-4383-9fa5-bbc2eaf08798"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "a8f2aedb-312d-40d8-8f5b-1df232b3f885"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "9eee74db-895a-466c-a7ca-daa6eb9911a0"
+            }
+          },
+          {
+            "frame": 1.3333333333333333,
+            "value": {
+              "__uuid__": "20ac2dac-ccd0-424f-9c24-57b3d056fb42"
+            }
+          },
+          {
+            "frame": 1.6666666666666667,
+            "value": {
+              "__uuid__": "8b970c49-8d41-4db3-a727-69a37a240bd9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "eyes1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.283333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "4e4cfcb8-c340-4230-a916-1c8db39e5052"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "2a905283-49f4-49b0-90d8-8627b94d51cb"
+            }
+          },
+          {
+            "frame": 1.05,
+            "value": {
+              "__uuid__": "4e4cfcb8-c340-4230-a916-1c8db39e5052"
+            }
+          },
+          {
+            "frame": 2.5,
+            "value": {
+              "__uuid__": "2a905283-49f4-49b0-90d8-8627b94d51cb"
+            }
+          },
+          {
+            "frame": 2.566666666666667,
+            "value": {
+              "__uuid__": "4e4cfcb8-c340-4230-a916-1c8db39e5052"
+            }
+          },
+          {
+            "frame": 3.2666666666666666,
+            "value": {
+              "__uuid__": "4e4cfcb8-c340-4230-a916-1c8db39e5052"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

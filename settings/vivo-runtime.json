@@ -1,0 +1,17 @@
+{
+  "certificatePath": "",
+  "deviceOrientation": "portrait",
+  "disabledMode": "disabled is-disabled",
+  "icon": "E:\\XiaoMuBiao\\assets\\resources\\tex\\bigtv.png",
+  "logLevel": "log",
+  "minPlatformVersion": "1020",
+  "name": "挣它一个亿",
+  "npmPath": "D:\\NodeJs",
+  "package": "com.talkweb.xmb.vivo",
+  "privatePath": "",
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": true,
+  "versionCode": "1",
+  "versionName": "1.0"
+}

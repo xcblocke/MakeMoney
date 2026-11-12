@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "eye2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.85,
+  "sample": 60,
+  "speed": 2,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "703359ed-871b-4ca2-9092-5033d5deaaeb"
+            }
+          },
+          {
+            "frame": 2.5833333333333335,
+            "value": {
+              "__uuid__": "78ba16f7-9d4e-4212-8fdd-72ae77b56fd8"
+            }
+          },
+          {
+            "frame": 2.8333333333333335,
+            "value": {
+              "__uuid__": "703359ed-871b-4ca2-9092-5033d5deaaeb"
+            }
+          },
+          {
+            "frame": 3.8333333333333335,
+            "value": {
+              "__uuid__": "703359ed-871b-4ca2-9092-5033d5deaaeb"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
